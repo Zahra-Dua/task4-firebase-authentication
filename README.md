@@ -59,10 +59,16 @@ lib/
 ```
 
 ## Screenshots
+<img width="281" height="644" alt="image" src="https://github.com/user-attachments/assets/39c775a2-aefb-4762-9b77-84b9b82424c3" />
 
-- Login Screen with centered form
-- Signup Screen with centered form
-- Profile Screen showing user information
+<img width="281" height="643" alt="image" src="https://github.com/user-attachments/assets/d36297bf-27e4-4ea4-8dac-c12f298717af" />
+
+<img width="280" height="646" alt="image" src="https://github.com/user-attachments/assets/5e219adb-651b-490a-a00e-ab4b97bfaa4b" />
+
+<img width="284" height="646" alt="image" src="https://github.com/user-attachments/assets/5e5918f5-8d62-4764-a608-b882f4c4734c" />
+
+<img width="1347" height="602" alt="image" src="https://github.com/user-attachments/assets/806cb84f-edf1-49f4-92e6-7f8f8eadd5ad" />
+
 
 ## Contributing
 
