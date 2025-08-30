@@ -70,10 +70,3 @@ lib/
 <img width="1347" height="602" alt="image" src="https://github.com/user-attachments/assets/806cb84f-edf1-49f4-92e6-7f8f8eadd5ad" />
 
 
-## Contributing
-
-Feel free to contribute to this project by submitting issues or pull requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
